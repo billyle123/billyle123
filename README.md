@@ -1,16 +1,16 @@
-### Hi there 👋
+[<img src="https://i.imgur.com/ulf2PWb.png"
+align="center" width="1200" height="auto">][3]
 
-<!--
-**billyle123/billyle123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello!
 
-Here are some ideas to get you started:
+Hi, my name is Billy! I am currently attending a web development class at Woz-U.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me!
+
+- [Email][2]
+- [LinkedIn][1]
+- [github][3]
+
+[1]: https://linkedin.com/in/billyle123
+[2]: iambillyle1996@yahoo.com
+[3]: https://github.com/billyle123
